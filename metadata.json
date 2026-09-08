@@ -1,0 +1,6 @@
+{
+  "name": "Rổ Úp Rau Củ Quả 2 Tầng",
+  "description": "Ứng dụng giới thiệu và đặt hàng rổ úp rau củ quả 2 tầng đa năng thoát nước nhanh cho gian bếp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
